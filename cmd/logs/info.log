@@ -1,0 +1,90 @@
+2018-09-30/11:38:44.903 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/11:38:44.904 [[32mINFO[0m] main: branch:  
+2018-09-30/11:38:44.904 [[32mINFO[0m] main: commit:  
+2018-09-30/11:38:44.904 [[32mINFO[0m] main: build time: 2018-09-30T11:38:43+0300 
+2018-09-30/11:38:44.904 [[32mINFO[0m] main: tag:  
+2018-09-30/11:38:44.905 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/11:38:44.905 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/11:38:44.905 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/11:39:04.703 [[32mINFO[0m] socket-pool: Conncted wggE9XJ2CrzpM7HqNMyI 
+2018-09-30/11:39:08.284 [[32mINFO[0m] socket-pool: Disconnected wggE9XJ2CrzpM7HqNMyI 
+2018-09-30/11:40:09.591 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/11:40:09.591 [[32mINFO[0m] main: branch:  
+2018-09-30/11:40:09.591 [[32mINFO[0m] main: commit:  
+2018-09-30/11:40:09.591 [[32mINFO[0m] main: build time: 2018-09-30T11:40:08+0300 
+2018-09-30/11:40:09.592 [[32mINFO[0m] main: tag:  
+2018-09-30/11:40:09.592 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/11:40:09.592 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/11:40:09.592 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/11:40:31.784 [[32mINFO[0m] socket-pool: Conncted hLbLoSaf_3t-eaMEuNAe 
+2018-09-30/11:40:48.937 [[32mINFO[0m] socket-pool: Disconnected hLbLoSaf_3t-eaMEuNAe 
+2018-09-30/11:41:00.489 [[32mINFO[0m] socket-pool: Conncted eEUuz4t9oqp_HUFC97RG 
+2018-09-30/11:48:06.993 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/11:48:06.993 [[32mINFO[0m] main: branch:  
+2018-09-30/11:48:06.994 [[32mINFO[0m] main: commit:  
+2018-09-30/11:48:06.994 [[32mINFO[0m] main: build time: 2018-09-30T11:48:05+0300 
+2018-09-30/11:48:06.994 [[32mINFO[0m] main: tag:  
+2018-09-30/11:48:06.994 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/11:48:06.995 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/11:48:06.995 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/11:48:08.073 [[32mINFO[0m] socket-pool: Conncted OtpI5rx32_C5m_RAIHYI 
+2018-09-30/11:48:11.050 [[32mINFO[0m] socket-pool: Disconnected OtpI5rx32_C5m_RAIHYI 
+2018-09-30/11:51:24.109 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/11:51:24.110 [[32mINFO[0m] main: branch:  
+2018-09-30/11:51:24.110 [[32mINFO[0m] main: commit:  
+2018-09-30/11:51:24.111 [[32mINFO[0m] main: build time: 2018-09-30T11:51:22+0300 
+2018-09-30/11:51:24.111 [[32mINFO[0m] main: tag:  
+2018-09-30/11:51:24.112 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/11:51:24.112 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/11:51:24.112 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/11:51:39.397 [[32mINFO[0m] socket-pool: Conncted WsxtJIzTSOYDjsxYYaFE 
+2018-09-30/11:51:44.747 [[32mINFO[0m] socket-pool: Disconnected WsxtJIzTSOYDjsxYYaFE 
+2018-09-30/12:00:35.396 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/12:00:35.397 [[32mINFO[0m] main: branch:  
+2018-09-30/12:00:35.398 [[32mINFO[0m] main: commit:  
+2018-09-30/12:00:35.398 [[32mINFO[0m] main: build time: 2018-09-30T12:00:33+0300 
+2018-09-30/12:00:35.398 [[32mINFO[0m] main: tag:  
+2018-09-30/12:00:35.399 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/12:00:35.399 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/12:00:35.400 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/12:00:37.682 [[32mINFO[0m] socket-pool: Conncted GwEfjh80pVNVqXI8NkBT 
+2018-09-30/12:18:55.961 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/12:18:55.962 [[32mINFO[0m] main: branch:  
+2018-09-30/12:18:55.962 [[32mINFO[0m] main: commit:  
+2018-09-30/12:18:55.962 [[32mINFO[0m] main: build time: 2018-09-30T12:18:54+0300 
+2018-09-30/12:18:55.962 [[32mINFO[0m] main: tag:  
+2018-09-30/12:18:55.963 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/12:18:55.963 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/12:18:55.963 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/12:19:00.539 [[32mINFO[0m] socket-pool: Conncted K3MGzHC50wIZybQjJimy 
+2018-09-30/12:19:03.460 [[32mINFO[0m] socket-pool: Disconnected K3MGzHC50wIZybQjJimy 
+2018-09-30/12:20:03.417 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/12:20:03.417 [[32mINFO[0m] main: branch:  
+2018-09-30/12:20:03.418 [[32mINFO[0m] main: commit:  
+2018-09-30/12:20:03.418 [[32mINFO[0m] main: build time: 2018-09-30T12:20:01+0300 
+2018-09-30/12:20:03.418 [[32mINFO[0m] main: tag:  
+2018-09-30/12:20:03.418 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/12:20:03.419 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/12:20:03.419 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/12:20:04.200 [[32mINFO[0m] socket-pool: Conncted wHqnzyqfk79fMnYWSy0D 
+2018-09-30/12:20:06.845 [[32mINFO[0m] socket-pool: Disconnected wHqnzyqfk79fMnYWSy0D 
+2018-09-30/12:28:28.246 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/12:28:28.246 [[32mINFO[0m] main: branch:  
+2018-09-30/12:28:28.247 [[32mINFO[0m] main: commit:  
+2018-09-30/12:28:28.247 [[32mINFO[0m] main: build time: 2018-09-30T12:28:27+0300 
+2018-09-30/12:28:28.247 [[32mINFO[0m] main: tag:  
+2018-09-30/12:28:28.247 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/12:28:28.248 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/12:28:28.248 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/12:28:30.979 [[32mINFO[0m] socket-pool: Conncted HXkw1QIf8dPWQlxcz1yJ 
+2018-09-30/12:28:35.330 [[32mINFO[0m] socket-pool: Disconnected HXkw1QIf8dPWQlxcz1yJ 
+2018-09-30/12:36:07.850 [[32mINFO[0m] main: CONFIGURATION={Database:{Address:localhost:27017 DBUsers:userDB DBgraffitys:DBgraffitys} RestAddress:localhost:7778 WsAddress:0.0.0.0:6780} 
+2018-09-30/12:36:07.851 [[32mINFO[0m] main: branch:  
+2018-09-30/12:36:07.851 [[32mINFO[0m] main: commit:  
+2018-09-30/12:36:07.851 [[32mINFO[0m] main: build time: 2018-09-30T12:36:06+0300 
+2018-09-30/12:36:07.852 [[32mINFO[0m] main: tag:  
+2018-09-30/12:36:07.852 [[32mINFO[0m] socket-pool: InitConnectedPool 
+2018-09-30/12:36:07.853 [[32mINFO[0m] socket-pool: Starting socketIO server on 0.0.0.0:6780 address 
+2018-09-30/12:36:07.853 [[32mINFO[0m] kandinsky: Running server 
+2018-09-30/12:36:12.881 [[32mINFO[0m] socket-pool: Conncted YsuRFi0wAZjBVvgHpWQ6 
+2018-09-30/12:36:15.721 [[32mINFO[0m] socket-pool: Disconnected YsuRFi0wAZjBVvgHpWQ6 
